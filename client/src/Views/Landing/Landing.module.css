@@ -1,0 +1,21 @@
+.Link {
+  display: flex;
+  text-decoration: none;
+  justify-content: center;
+  margin: 10px;
+  padding: 20px;
+  color: aliceblue;
+  background-color: rgba(145, 66, 66, 0.473);
+}
+
+.Link:hover {
+  background-color: #45a049;
+}
+
+.div {
+  background-image: url(mundoLanding3jpg.jpg);
+  padding: 22%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

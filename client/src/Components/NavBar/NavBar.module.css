@@ -1,0 +1,18 @@
+.navContainer {
+  background-color: rgba(145, 66, 66, 0.473);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border-radius: 15px;
+  border: 1px solid black;
+}
+
+.link {
+  text-decoration: none;
+  color: aliceblue;
+  margin: 200px;
+}
+
+.navContainer {
+  justify-content: space-around;
+}
